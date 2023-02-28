@@ -26,4 +26,4 @@ Inicio de Links para ajuda à turma.
 ##### What is Cryptography - Intro : https://www.youtube.com/watch?v=IZJMZJf1Evw
 ##### Cryptography: Crash Course : https://www.youtube.com/watch?v=jhXCTbFnK8o
 ##### WIFI Cyber Attack - https://www.youtube.com/watch?v=1OVTmrXGHyU
-##### https://youtu.be/lc7scxvKQOo
+##### Social Engineering - https://youtu.be/lc7scxvKQOo
