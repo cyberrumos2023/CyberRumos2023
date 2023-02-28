@@ -1,7 +1,4 @@
-### Esta Or
-
-Supported color models
-ganização pertence à Turma Cyber Academy Rumos 2023...
+### Esta Organização pertence à Turma Cyber Academy Rumos 2023...
 
 Inicio de Links para ajuda à turma.
 
