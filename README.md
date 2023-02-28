@@ -3,7 +3,7 @@
 Inicio de Links para ajuda à turma.
 
 ##### Notas do Formador Rui Lima - https://dontpad.com/cyber2023
-##### Notas do Sandro Melo - https://github.com/sandromelobrazil?tab=repositories
+##### Notas do Sandro Melo ##### - https://github.com/sandromelobrazil?tab=repositories
 
 **Awesome Security** - https://github.com/sbilly/awesome-security
 
