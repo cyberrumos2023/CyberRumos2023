@@ -6,4 +6,10 @@ Inicio de Links para ajuda de à turma.
 
 ##### Notas do Formador Rui Lima - https://dontpad.com/cyber2023
 
-##### Sn1per https://github.com/1N3/Sn1per - Pentesting
+##### Sn1per - https://github.com/1N3/Sn1per - Pentesting
+
+##### Video Cyber attack - https://www.youtube.com/watch?v=AyTHVcds6_0
+
+##### Json WEB Tokens - https://jwt.io/
+
+##### LOLBAS - https://lolbas-project.github.io/#
