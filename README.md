@@ -15,9 +15,15 @@ Inicio de Links para ajuda à turma.
 ##### CIS - https://www.cisecurity.org/
 ##### WIGLE.net - https://wigle.net/
 ##### WIFI Aircrak - https://ysochannel.com/how-to-crack-wpa-wpa2-wi-fi-passwords-using-aircrack-ng/
+##### MD5 - https://www.md5hashgenerator.com/
+##### Data Breachs - https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/
+##### CVE's - https://nvd.nist.gov/vuln/search
+##### CVE's - https://www.opencve.io/
 
 
 #### Videos
 ##### Video Cyber attack - https://www.youtube.com/watch?v=AyTHVcds6_0
 ##### What is Cryptography - Intro : https://www.youtube.com/watch?v=IZJMZJf1Evw
 ##### Cryptography: Crash Course : https://www.youtube.com/watch?v=jhXCTbFnK8o
+##### WIFI Cyber Attack - https://www.youtube.com/watch?v=1OVTmrXGHyU
+##### https://youtu.be/lc7scxvKQOo
