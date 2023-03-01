@@ -1,9 +1,8 @@
 ### Esta Organização pertence à Turma Cyber Academy Rumos 2023...
 
-Inicio de Links para ajuda à turma.
-
-##### Notas do Formador Rui Lima - https://dontpad.com/cyber2023
-##### Notas do Formador Sandro Melo - https://github.com/sandromelobrazil?tab=repositories
+####Inicio de Links para ajuda à turma.
+**Notas do Formador Rui Lima** - https://dontpad.com/cyber2023  
+**Notas do Formador Sandro Melo** - https://github.com/sandromelobrazil?tab=repositories  
 
 **Awesome Security** - https://github.com/sbilly/awesome-security)  
 **Sn1per** - https://github.com/1N3/Sn1per - Pentesting  
