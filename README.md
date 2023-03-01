@@ -19,6 +19,7 @@
 **Data Breachs** - https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/  
 **CVE's** - https://nvd.nist.gov/vuln/search  
 **CVE's** - https://www.opencve.io/  
+**Port Swegger** - https://portswigger.net/web-security
 
 
 
