@@ -20,7 +20,7 @@
 **CVE's** - https://nvd.nist.gov/vuln/search  
 **CVE's** - https://www.opencve.io/  
 **Port Swegger** - https://portswigger.net/web-security
-
+**Site Hack5** - http://www.hak5.org
 
 
 #### Videos  
