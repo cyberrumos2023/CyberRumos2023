@@ -10,22 +10,21 @@ Inicio de Links para ajuda à turma.
 - [httpry](http://dumpsterventures.com/jason/httpry/)
 - [Awesome Security](https://github.com/sbilly/awesome-security) -
 - [Awesome Security](https://github.com/sbilly/awesome-security) -
-  
-luis  
-luis
-**Sn1per** - https://github.com/1N3/Sn1per - Pentesting
-**Json WEB Tokens** - https://jwt.io/
-**LOLBAS** - https://lolbas-project.github.io/#
-**GTFOBins** - https://gtfobins.github.io/
-**Mitre Attack** - https://attack.mitre.org/
-**Shodan** - https://www.shodan.io/
-**CIS** - https://www.cisecurity.org/
-**WIGLE.net** - https://wigle.net/
-**WIFI Aircrak** - https://ysochannel.com/how-to-crack-wpa-wpa2-wi-fi-passwords-using-aircrack-ng/
-**MD5** - https://www.md5hashgenerator.com/
-**Data Breachs** - https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/
-**CVE's** - https://nvd.nist.gov/vuln/search
-**CVE's** - https://www.opencve.io/
+
+
+**Sn1per** - https://github.com/1N3/Sn1per - Pentesting  
+**Json WEB Tokens** - https://jwt.io/  
+**LOLBAS** - https://lolbas-project.github.io/# 
+**GTFOBins** - https://gtfobins.github.io/ 
+**Mitre Attack** - https://attack.mitre.org/ 
+**Shodan** - https://www.shodan.io/ 
+**CIS** - https://www.cisecurity.org/ 
+**WIGLE.net** - https://wigle.net/ 
+**WIFI Aircrak** - https://ysochannel.com/how-to-crack-wpa-wpa2-wi-fi-passwords-using-aircrack-ng/ 
+**MD5** - https://www.md5hashgenerator.com/ 
+**Data Breachs** - https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/ 
+**CVE's** - https://nvd.nist.gov/vuln/search 
+**CVE's** - https://www.opencve.io/ 
 
 
 #### Videos
