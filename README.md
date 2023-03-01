@@ -4,14 +4,8 @@ Inicio de Links para ajuda à turma.
 
 ##### Notas do Formador Rui Lima - https://dontpad.com/cyber2023
 ##### Notas do Formador Sandro Melo - https://github.com/sandromelobrazil?tab=repositories
-- [httpry](http://dumpsterventures.com/jason/httpry/) -
-- [httpry](http://dumpsterventures.com/jason/httpry/) -
-- [httpry](http://dumpsterventures.com/jason/httpry/) -
-- [httpry](http://dumpsterventures.com/jason/httpry/)
-- [Awesome Security](https://github.com/sbilly/awesome-security) -
-- [Awesome Security](https://github.com/sbilly/awesome-security) -
 
-
+**Awesome Security** - https://github.com/sbilly/awesome-security)  
 **Sn1per** - https://github.com/1N3/Sn1per - Pentesting  
 **Json WEB Tokens** - https://jwt.io/  
 **LOLBAS** - https://lolbas-project.github.io/#  
@@ -27,9 +21,9 @@ Inicio de Links para ajuda à turma.
 **CVE's** - https://www.opencve.io/  
 
 
-#### Videos
-##### Video Cyber attack - https://www.youtube.com/watch?v=AyTHVcds6_0
-##### What is Cryptography - Intro : https://www.youtube.com/watch?v=IZJMZJf1Evw
-##### Cryptography: Crash Course : https://www.youtube.com/watch?v=jhXCTbFnK8o
-##### WIFI Cyber Attack - https://www.youtube.com/watch?v=1OVTmrXGHyU
-##### Social Engineering - https://youtu.be/lc7scxvKQOo
+#### Videos  
+**Video Cyber attack** - https://www.youtube.com/watch?v=AyTHVcds6_0  
+**What is Cryptography - Intro** : https://www.youtube.com/watch?v=IZJMZJf1Evw  
+**Cryptography: Crash Course** : https://www.youtube.com/watch?v=jhXCTbFnK8o  
+**WIFI Cyber Attack** - https://www.youtube.com/watch?v=1OVTmrXGHyU  
+**Social Engineering** - https://youtu.be/lc7scxvKQOo  
