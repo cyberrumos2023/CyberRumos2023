@@ -7,7 +7,7 @@ Inicio de Links para ajuda à turma.
 - [httpry](http://dumpsterventures.com/jason/httpry/) -
 - [httpry](http://dumpsterventures.com/jason/httpry/) -
 - [httpry](http://dumpsterventures.com/jason/httpry/) -
-- [httpry](http://dumpsterventures.com/jason/httpry/) -
+- [httpry](http://dumpsterventures.com/jason/httpry/)
 - [Awesome Security](https://github.com/sbilly/awesome-security) -
 - [Awesome Security](https://github.com/sbilly/awesome-security) -
 **Sn1per** - https://github.com/1N3/Sn1per - Pentesting
