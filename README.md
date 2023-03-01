@@ -2,6 +2,7 @@
 
 #### Inicio de Links para ajuda à turma.
 **Notas do Formador Rui Lima** - https://dontpad.com/cyber2023  
+**Mural Formador Rui Lima** - [Link](https://app.mural.co/t/comptias5576/m/comptias5576/1676500284862/1d37f93459ddadc02d62c37438e685740de39532?sender=ud82d427e59c4212fe1685912)  
 **Notas do Formador Sandro Melo** - https://github.com/sandromelobrazil?tab=repositories  
 
 **Awesome Security** - https://github.com/sbilly/awesome-security)  
@@ -18,6 +19,7 @@
 **Data Breachs** - https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/  
 **CVE's** - https://nvd.nist.gov/vuln/search  
 **CVE's** - https://www.opencve.io/  
+
 
 
 #### Videos  
