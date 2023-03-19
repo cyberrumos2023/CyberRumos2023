@@ -24,7 +24,7 @@
 
 Threat Modeling
 
-**Draw.io** - https://app.diagrams.net/
+**Draw.io** - https://app.diagrams.net/  
 **OWASP Threat Modeling 1** - https://owasp.org/www-community/Threat_Modeling  
 **OWASP Threat Modeling 2** - https://owasp.org/www-project-threat-dragon/  
 **MS Threat Modeling 2** - https://learn.microsoft.com/en-us/training/paths/tm-threat-modeling-fundamentals/  
