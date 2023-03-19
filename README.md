@@ -22,6 +22,12 @@
 **Port Swegger** - https://portswigger.net/web-security
 **Site Hack5** - http://www.hak5.org
 
+Threat Modeling
+
+**Draw.io** - https://app.diagrams.net/
+**OWASP Threat Modeling 1** - https://owasp.org/www-community/Threat_Modeling
+**OWASP Threat Modeling 2** - https://owasp.org/www-project-threat-dragon/
+**MS Threat Modeling 2** - https://learn.microsoft.com/en-us/training/paths/tm-threat-modeling-fundamentals/
 
 #### Videos  
 **Video Cyber attack** - https://www.youtube.com/watch?v=AyTHVcds6_0  
